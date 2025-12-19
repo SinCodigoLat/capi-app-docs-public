@@ -3,8 +3,8 @@
 
 title: CAPI App - Manual de Usuario
 description: Guías de usuario para CAPI App - Plataforma médica completa
-url: "https://sincodigolat.github.io"
-baseurl: "/capi-app-docs-public"
+url: "https://manual.doctorcapi.com"
+baseurl: ""
 
 # Tema - Usar remote_theme para just-the-docs en GitHub Pages
 remote_theme: just-the-docs/just-the-docs
