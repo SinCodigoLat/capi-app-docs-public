@@ -9,7 +9,7 @@ Este sitio incluye:
 
 ## 🌐 Sitio Web
 
-El sitio está disponible en: `https://sincodigolat.github.io/capi-app-docs-public/`
+El sitio está disponible en: `https://manual.doctorcapi.com`
 
 ## 📝 Nota
 
