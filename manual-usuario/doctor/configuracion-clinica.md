@@ -132,9 +132,9 @@ Para recibir pagos de pacientes:
 
 1. Ve a **"Mi Plan"** desde el menú
 2. Verás:
-   - Plan actual (Starter, Premium, Elite)
-   - Fecha de renovación
-   - Límites actuales (pacientes, personal)
+   - Plan actual (Starter, Premium, Elite, o **Ilimitado**)
+   - Fecha de renovación (o si está en **días de prueba gratuits**)
+   - Límites actuales (pacientes, personal) - si dice **"Ilimitado"**, no tienes restricciones.
    - Créditos AI disponibles
 
 ### Cambiar de Plan
