@@ -22,7 +22,8 @@ Bienvenido al **Manual de Usuario de CAPI App**, una plataforma médica integral
 - 🎥 **Videoconsultas** - Integración con Zoom
 - 💳 **Pagos y Suscripciones** - Stripe y RevenueCat
 - 🤖 **Inteligencia Artificial** - Sistema de créditos AI
-- 🔐 **Seguridad COFEPRIS** - Cumplimiento normativo completo
+- 🔐 **Cumplimiento normativo** - Operamos bajo el marco COFEPRIS (NOM-024, NOM-004) y LFPDPPP
+- 📡 **Disponibilidad 24/7** - Monitoreo continuo y status page pública
 
 ## 📚 Manual de Usuario
 
@@ -64,12 +65,16 @@ CAPI App está disponible en:
 - **Android** - Google Play
 - **Web** - Navegador (PWA)
 
+## 🩺 Estado del servicio
+
+¿Algo no funciona? Antes de escribirnos, revisa el estado en vivo de CAPI en [status.doctorcapi.com](https://status.doctorcapi.com).
+
 ## 📞 Soporte
 
 Para soporte técnico o consultas sobre la documentación, contacta al equipo de desarrollo.
 
 ---
 
-**Última actualización:** Diciembre 2024  
-**Versión:** 2.0.1
+**Última actualización:** Mayo 2026  
+**Versión:** 2.1.0
 
